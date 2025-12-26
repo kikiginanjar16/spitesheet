@@ -1,0 +1,7 @@
+{
+  "name": "Gemini SpriteSheet Studio",
+  "description": "A high-end tool to generate, edit, and stitch character sprites into professional sheets using Gemini AI and custom canvas tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
